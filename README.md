@@ -30,8 +30,8 @@ My active development focus where I bridge theory and practice.
 ## 🏛️ Previous Projects & Academic Work
 
 ### 1. Braid-inspired Rewind Engine (Java / libGDX)
-**Repository currently private while resolving publication and licensing considerations.  
-A technical extraction of the rewind system is being prepared for public release.** 
+**Currently private while resolving publication restrictions.  
+A technical showcase is planned.** 
 
 *My proudest technical achievement so far.* A time-manipulation system requiring deep state-management and architectural refactoring for FPS-independent stability.
 
