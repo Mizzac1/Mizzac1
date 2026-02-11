@@ -30,8 +30,9 @@ My active development focus where I bridge theory and practice.
 ## 🏛️ Previous Projects & Academic Work
 
 ### 1. Braid-inspired Rewind Engine (Java / libGDX)
-*My proudest technical achievement.* A time-manipulation system requiring deep state-management and architectural refactoring for FPS-independent stability.
 **Currently not available due to licensing issues - WIP** 
+
+*My proudest technical achievement.* A time-manipulation system requiring deep state-management and architectural refactoring for FPS-independent stability.
 
 ### 2. Game Jam Project (Java / libGDX) - [Playable Build Available]
 A fast-paced development exercise focusing on rapid prototyping and game feel. 
