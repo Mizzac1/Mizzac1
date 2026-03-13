@@ -32,6 +32,7 @@ My active development focus where I bridge theory and practice.
 ### 1. Braid-inspired Rewind Engine (Java / libGDX)
 **Currently private while resolving publication restrictions.  
 A technical showcase is planned.** 
+[Showcase of my level](https://youtu.be/eJ_XeiItvfw?si=7lmVE-cbvETtMOn5)
 
 *My proudest technical achievement so far.* A time-manipulation system requiring deep state-management and architectural refactoring for FPS-independent stability.
 
